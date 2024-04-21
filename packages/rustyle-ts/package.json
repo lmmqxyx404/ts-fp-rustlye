@@ -1,17 +1,15 @@
 {
-  "name": "ts-fp-rustlye",
+  "name": "rustyle-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
+  "module": "src/index.mjs",
+
   "scripts": {
-    "dev": "node src/index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    
-    
-    
-    
+  "dependencies": {
+    "lodash": "workspace:*"
   },
   "keywords": [],
   "author": "",
