@@ -1,3 +1,4 @@
 # 配置 multi-package repositorie
 packages:
- - 'externals/*'
+ - 'external/*'
+ - 'packages/*'
