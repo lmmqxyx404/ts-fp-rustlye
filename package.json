@@ -4,6 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
+    "clean:node_modules": "pnpm recursive exec -- rimraf node_modules",
     "dev": "node src/index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
