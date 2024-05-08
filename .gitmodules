@@ -3,4 +3,4 @@
 	url = git@github.com:lmmqxyx404/lodash.git
 [submodule "external/fp-ts"]
 	path = external/fp-ts
-	url = git@github.com:gcanti/fp-ts.git
+	url = git@github.com:lmmqxyx404/fp-ts.git
