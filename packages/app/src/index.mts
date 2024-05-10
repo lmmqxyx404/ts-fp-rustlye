@@ -1,8 +1,9 @@
 /* import { obj } from 'rustyle-ts'
 console.log(obj); */
-import { Err, Ok, Result } from 'rustyle-ts'
+import { Err, Ok, Result, fpTs } from 'fp-ts-rustyle'
 // import { fpTs } from 'rustyle-ts'
-
+const { alternative } = fpTs
+console.log(alternative);
 
 // import { add } from 'rustyle-ts'
 // import type { Result } from 'rustyle-ts'
