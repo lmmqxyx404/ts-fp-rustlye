@@ -13,7 +13,11 @@
   "dependencies": {
     "fp-ts": "workspace:*"
   },
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "rust",
+    "functional-programming"
+  ],
   "author": "",
   "license": "MIT"
 }
