@@ -1,0 +1,19 @@
+{
+  "name": "sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "tsx --watch src/index.cts",
+    "dev_enum": "tsx --watch src/enum.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "option-t": "latest",
+    "xlsx": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

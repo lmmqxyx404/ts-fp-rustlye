@@ -1,4 +1,6 @@
 # 配置 multi-package repositorie
 packages:
- - 'external/*'
- - 'packages/*'
+  - external/*
+  - packages/*
+onlyBuiltDependencies:
+  - esbuild
